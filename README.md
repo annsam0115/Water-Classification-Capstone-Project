@@ -1,5 +1,4 @@
-# CIND820
-# Big Data Analysis Project
+# CIND820 - Big Data Analysis Project
 
 This repository consists of the following:
 1. Draft project abstract

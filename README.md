@@ -5,7 +5,7 @@ This repository consists of the following:
 1. Draft project abstract
 2. Draft project report
 3. Initial code in python
-4. copy of the original dataset
+4. copy of the original dataset (https://www.kaggle.com/datasets/adityakadiwal/water-potability/code)
 
 The project report will be consistent with details within an academic paper. The report is current in draft form.
 The upload code is accessible via google.colab in python

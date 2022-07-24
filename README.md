@@ -20,7 +20,5 @@ The notebook includes headings and some comments to help readers follow the proc
 6. Hyper-tunning parameters within each of the prediction/classification models
 7. Comparison of the model's performances
 8. Cross Validation
-9. Post-predictive analysis
-
 
 A final power-point presentation will be uploaded once completed.

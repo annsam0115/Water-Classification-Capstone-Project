@@ -1,15 +1,14 @@
 # CIND820 - Big Data Analysis Project
 
 This repository consists of the following:
-1. Project abstract
-2. Draft project report
-3. Final project report
-4. Power-point presentation
-5. Code in python
-6. copy of the original dataset (https://www.kaggle.com/datasets/adityakadiwal/water-potability/code)
+1. Final Code in Python/Jupyter Notebook
+2. Final Cose in HTML format
+3. Final project report (doc)
+4. Final projecy report (pdf)
+5. PPT Final presentation
+6. Copy of the original dataset (https://www.kaggle.com/datasets/adityakadiwal/water-potability/code)
 
-
-The project report will be consistent with details within an academic paper. The report is current in draft form.
+The project report will be consistent with details within an academic paper.
 The upload code is accessible via google.colab in python
 
 
@@ -22,3 +21,4 @@ The notebook includes headings and some comments to help readers follow the proc
 6. Hyper-tunning parameters within each of the prediction/classification models
 7. Comparison of the model's performances
 8. Cross Validation
+9. Conclusions

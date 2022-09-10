@@ -2,9 +2,9 @@
 
 This repository consists of the following:
 1. Final Code in Python/Jupyter Notebook
-2. Final Cose in HTML format
+2. Final Code saved in HTML format
 3. Final project report (doc)
-4. Final projecy report (pdf)
+4. Final project report (pdf)
 5. PPT Final presentation
 6. Copy of the original dataset (https://www.kaggle.com/datasets/adityakadiwal/water-potability/code)
 
